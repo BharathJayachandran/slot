@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:04.04.2024
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -24,10 +24,10 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - BHARATH J(212222040026)</title>
+    <title>SLOT TIME TABLE - Bharath J</title>
     <style>
         table {
             border-collapse: collapse;
@@ -50,9 +50,9 @@ Execute the program using runserver command.
   </style>
 </head>
 <body>
-  <img src="logo.jpg" width="100%" height="250px">
+  <img src="c:\Users\SEC\OneDrive\Desktop\html\11.png" width="80%" height="250px">
   <div class="center-text">
-    <p>SLOT TIME TABLE - PRAVEEN CK (23009864)</p>
+    <p>SLOT TIME TABLE - Bharath J</p>
   </div>
     <table>
         <tr>
@@ -98,7 +98,7 @@ Execute the program using runserver command.
         </tr>
     </table>
 <head>
-    <title>SLOT TIME TABLE - jeevanesh (23013802)</title>
+    <title>SLOT TIME TABLE -Bharath J</title>
     <style>
         table {
             border-collapse: collapse;
@@ -162,6 +162,7 @@ Execute the program using runserver command.
 </html>
 
 ## OUTPUT
+![Screenshot 2024-04-04 144342](https://github.com/BharathJayachandran/slot/assets/122089525/a20f4fe2-38f3-48ab-a00d-7d17312d4a80)
 
 
 ## RESULT
